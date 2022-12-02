@@ -6,7 +6,7 @@
 
 ## Transforming Data
 
-### Similar to the extract stage, we needed to clean the data into a more suitable format. This was done by splitting columns and adjusting column data types. The final result of the transforming phase was the [backers data](https://github.com/Ctblossey/Crowdfunding-ETL/blob/main/Files/backers.csv)
+### Similar to the extract stage, we needed to clean the data into a more suitable format. This was done by splitting columns and adjusting column data types. The final result of the transforming phase was the [backers data](https://github.com/Ctblossey/Crowdfunding-ETL/blob/main/Files/backers.csv).
 
 ## ERD and Table Schema
 
@@ -16,4 +16,4 @@
 
 ## SQL Analysis
 
-### Our final analysis consisted of four main exercises: backer counts for each cf_id, confirming the previous results with a different table, creating and exporting an [Email Contacts File](https://github.com/Ctblossey/Crowdfunding-ETL/blob/main/Files/email_contacts_remaining_goal_amount.csv), and creating and exporting an [Email Backers File](https://github.com/Ctblossey/Crowdfunding-ETL/blob/main/Files/email_backers_remaining_goal_amount.csv)
+### Our final analysis consisted of four main exercises: backer counts for each cf_id, confirming the previous results with a different table, creating and exporting an [email contacts file](https://github.com/Ctblossey/Crowdfunding-ETL/blob/main/Files/email_contacts_remaining_goal_amount.csv), and creating and exporting an [email backers file](https://github.com/Ctblossey/Crowdfunding-ETL/blob/main/Files/email_backers_remaining_goal_amount.csv).
